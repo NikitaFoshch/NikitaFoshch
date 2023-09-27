@@ -4,10 +4,10 @@
 
 ### :man_technologist: About me:
 
-I am a back end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I am a back-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 My journey began with Odessa National Polytechnic University. 
 Where I tried myself in many directions, tried to study the C language, Python, tried my hand at data science, but most of all I was hooked on Java! 
-From April 2022 to April 2023, I studied web development in JavaRash courses, as well as through independent study and practice. 
+From May 2022 to May 2023, I studied development in JavaRash courses, as well as through independent study and practice. 
 At the moment I am looking for a job, at the same time I am practicing and studying new technologies.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
